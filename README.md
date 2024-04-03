@@ -7,7 +7,8 @@
 <p align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=35D103&size=18&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😁;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+trabalhos+😌;Se+você+precisar+de+mim+🤗;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia!+😊"></a>
 </p>
- <div>
+### 💻 GitHub Status
+ <div align="center">
    <a href="https://github.com/carlosvfb">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvfb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvfb&layout=compact&langs_count=6&theme=algolia"/>
@@ -21,7 +22,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### 🔗 Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
