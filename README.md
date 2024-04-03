@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Carlos Vítor Faria Barboza 😎
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😎;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+trabalhos+😌;Se+você+precisar+de+mim+🤗;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia😊"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=18&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😎;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+trabalhos+😌;Se+você+precisar+de+mim+🤗;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia!+😊"></a>
 </p>
  <div>
    <a href="https://github.com/carlosvfb">
