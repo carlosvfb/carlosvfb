@@ -14,6 +14,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvfb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvfb&layout=compact&langs_count=6&theme=algolia"/>
 </div>
+     
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvfb&hide_border=true&theme=dark"></a></p>
+</details>
 
 ### 🖥 Linguagens:    
 <div style="display: inline_block" align="right: 10px;"><br>
@@ -34,10 +40,5 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
-  <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvfb&hide_border=true&theme=dark"></a></p>
-</details>
 
 
