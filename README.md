@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/carlosvfb">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvfb&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvfb&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvfb&layout=compact&langs_count=6&theme=algolia"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -23,3 +23,13 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=carlosvfb&limit=5)
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=carlosvfb&limit=5)
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=carlosvfb&hide=B,B%2B)
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=carlosvfb&combine_all_yearly_contributions=true)
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=carlosvfb&hide=B&theme=algolia)
