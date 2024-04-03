@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Carlos Vítor Faria Barboza 😎
-
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+perfil+do+Carlos+Vítor+Faria+Barboza+😎;Feliz+em+ver+você+aqui!+😀;Sinta-se+à vontade+para+olhar+ao+redor+😌;Me+chame+nas+redes+sociais+se+você+precisar+de+mim+🤗;Tenha+um+ótimo+dia😊"></a>
+</p>
  <div>
    <a href="https://github.com/carlosvfb">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvfb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -23,3 +25,5 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
