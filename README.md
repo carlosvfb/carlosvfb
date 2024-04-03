@@ -34,4 +34,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvfb&hide_border=true&theme=dark"></a></p>
+</details>
+
 
