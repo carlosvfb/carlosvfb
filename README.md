@@ -1,5 +1,5 @@
-## Olá, sou Carlos Vítor Faria Barboza 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+**## Olá, sou Carlos Vítor Faria Barboza** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 <p align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=35D103&size=18&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😁;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+trabalhos+😌;Se+você+precisar+de+mim+🤗;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia!+😊"></a>
 </p>
