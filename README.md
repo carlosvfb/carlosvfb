@@ -41,12 +41,6 @@
 </div>
 
 <div>
-  
-<figure><embed src="https://wakatime.com/share/@carlosvfb/731c2a16-bc09-427a-976f-8da6450a8897.svg"></embed></figure>
-
-</div>
-
-<div>
 
 ![snake gif](https://github.com/carlosvfb/carlosvfb/blob/output/github-contribution-grid-snake-dark.svg)
   
