@@ -42,6 +42,12 @@
 
 <div>
 
+[![wakatime](https://wakatime.com/badge/user/3c32633a-85ec-4b7d-8ee7-d109eeb3c842.svg)](https://wakatime.com/@3c32633a-85ec-4b7d-8ee7-d109eeb3c842)
+  
+</div>
+
+<div>
+
 ![snake gif](https://github.com/carlosvfb/carlosvfb/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
