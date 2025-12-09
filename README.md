@@ -11,8 +11,9 @@
 ### 💻 GitHub Status
  <div align="center">
    <a href="https://github.com/carlosvfb">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvfb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvfb&layout=compact&langs_count=6&theme=algolia"/>
+    <img src="https://stats-plum-nine.vercel.app/api?username=carlosvfb&show_icons=true&theme=github_dark_dimmed&bg_color=15,0e141b,082c42&hide_border=true&hide_rank=false&rank_icon=github&cache_seconds=3600" height="190">
+  <img src="http://github-readme-stats-kappa-swart-31.vercel.app/api/top-langs/?username=carlosvfb&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=45,082c42,0e141b&hide_border=true&hide=scss&cache_seconds=3600">
+
 </div>
      
 <details>	
