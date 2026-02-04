@@ -1,6 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e141b,50:00AEFF,100:082c42&height=180&section=header&text=Carlos%20Vítor%20Faria%20Barboza&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Front-End&descAlignY=55&descSize=18" />
 
 <h1 align="center">
-  Olá, sou Carlos Vítor Faria Barboza 
+  Olá, sou Carlos Vítor Faria Barboza
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1> 
 
@@ -48,7 +49,7 @@
 <div>
 
 ![snake gif](https://github.com/carlosvfb/carlosvfb/blob/output/github-contribution-grid-snake-dark.svg)
-  
+
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:082c42,50:00AEFF,100:0e141b&height=120&section=footer" />
